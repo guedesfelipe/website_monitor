@@ -1,2 +1,2 @@
 # website_monitor
-Python script to monitore texts in websites
+Python script to monitor texts in websites
